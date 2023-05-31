@@ -1,1 +1,1 @@
-# MyGameLog
+# MyEntertainmentLog

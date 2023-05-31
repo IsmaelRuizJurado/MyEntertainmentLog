@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>my-game-log</artifactId>
+	<artifactId>my-entertainment-log</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MyGameLog</name>
-	<description>Check your played games</description>
+	<name>MyEntertainmentLog</name>
+	<description>Create and check your entertainment list!!</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
